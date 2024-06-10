@@ -5,14 +5,33 @@
 
 ### Detailed Summary of HR Analysis Report Findings
 
-Our HR analysis report provides significant insights into various aspects of employee distribution, job roles, and work experience across different departments. The Research & Development (R&D) department had the highest Sum of Employee Count at 961, which was 1,425.40% higher than the Human Resources (HR) department, which had the lowest Sum of Employee Count at 63. R&D accounted for a substantial 65.37% of the total Sum of Employee Count, followed by the Sales department with 446 employees.
+### HR Analysis Report Summary
 
-Gender distribution in job roles revealed that males occupied a higher Count of JobRole (882) compared to females (588), with males making up 60.00% of the total Count of JobRole. The analysis of salary hikes showed that both the values 5 and 1 tied for the highest Count of PercentSalaryHike at 15, with the distribution of PercentSalaryHike counts ranging from 1 to 15 across 37 different YearsAtCompany.
+This HR analysis report provides detailed insights into employee distribution, job roles, and work experience across different departments:
 
-In terms of work experience, the Manager role had the highest Average of TotalWorkingYears at 24.55, which was 425.15% higher than the Sales Representative role, which had the lowest Average of TotalWorkingYears at 4.67. The range of Average of TotalWorkingYears across all 9 JobRoles varied from 4.67 to 24.55.
+- **Employee Distribution**:
+  - **Research & Development (R&D)**: Highest Sum of Employee Count at 961, which is 1,425.40% higher than **Human Resources (HR)** with 63. R&D accounts for 65.37% of the total Sum of Employee Count, followed by **Sales** with 446.
 
-The Sales Executive role had the highest Sum of YearsAtCompany at 2444, which was 909.92% higher than the Sales Representative role, which had the lowest Sum of YearsAtCompany at 242. There was a positive correlation between the Sum of YearsAtCompany and the total Sum of MonthlyIncome. The Sales Executive role showed the most significant divergence between Sum of MonthlyIncome and Sum of YearsAtCompany, with a discrepancy of 2,254,871 in favor of MonthlyIncome.
+- **Gender Distribution**:
+  - **Job Roles**: Males occupy a higher Count of JobRole (882) compared to females (588), making up 60.00% of the total Count of JobRole.
 
-Overtime data indicated that the R&D department had the highest Count of OverTime at 961, followed by Sales at 446 and HR at 63. R&D again accounted for 65.37% of the total Count of OverTime.
+- **Salary Hikes**:
+  - **PercentSalaryHike**: Both values 5 and 1 tied for the highest Count of PercentSalaryHike at 15. The distribution of PercentSalaryHike counts ranged from 1 to 15 across 37 different YearsAtCompany.
 
-Overall, the findings highlight the dominance of the R&D department in terms of employee count and overtime, significant gender disparity in job roles, and the extensive experience and longer tenure associated with managerial roles. The positive correlation between tenure and monthly income suggests that longer tenure is rewarded with higher income. These insights can inform workforce planning, diversity initiatives, and compensation strategies.
+- **Work Experience**:
+  - **Managers**: Highest Average of TotalWorkingYears at 24.55, 425.15% higher than Sales Representatives at 4.67. The range of Average of TotalWorkingYears across all 9 JobRoles is from 4.67 to 24.55.
+
+- **Tenure**:
+  - **Sales Executives**: Highest Sum of YearsAtCompany at 2444, which is 909.92% higher than Sales Representatives at 242. There is a positive correlation between the Sum of YearsAtCompany and the total Sum of MonthlyIncome. The Sales Executive role shows the most significant divergence between Sum of MonthlyIncome and Sum of YearsAtCompany, with a discrepancy of 2,254,871 in favor of MonthlyIncome.
+
+- **Overtime**:
+  - **R&D**: Highest Count of OverTime at 961, followed by Sales at 446 and HR at 63. R&D again accounts for 65.37% of the total Count of OverTime.
+
+### Key Insights
+- **R&D Dominance**: Significant in employee count and overtime.
+- **Gender Disparity**: Noticeable in job roles, with males occupying more roles.
+- **Experience and Tenure**: Managerial roles are associated with extensive experience and longer tenure.
+- **Tenure-Compensation Correlation**: Longer tenure is rewarded with higher income.
+
+These findings can inform workforce planning, diversity initiatives, and compensation strategies.
+
